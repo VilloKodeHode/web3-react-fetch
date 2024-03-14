@@ -1,0 +1,16 @@
+#root {
+  margin: 0;
+  padding: 0;
+  background: url('/public/images/eldenRing.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Cinzel', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000;
+}
+
+button {
+  background-color: transparent;
+}
